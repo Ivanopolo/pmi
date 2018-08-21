@@ -1,0 +1,16 @@
+Presentation plan
+
+Goal: present PMI-based laplacian and it's empirical properties
+
+1/ Commute Time:
+	- Intuition
+	- How to compute
+	- Degeneracy
+2/ Spectral Clustering:
+	- How does it work
+	- Relation to commute time
+	- Degeneracy
+3/ Mutual Information Laplacian:
+	- Definition
+	- Empirical results
+	- Information bottleneck-ish interpretation

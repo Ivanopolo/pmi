@@ -1,0 +1,18 @@
+Laplacians and cuts - A Tutorial on Spectral Clustering: http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/attachments/luxburg06_TR_v2_4139%5b1%5d.pdf
+Where spectral methods fail - https://pdfs.semanticscholar.org/be4d/21cb272e3b5e0cbd23fc0ce10159e08a40e7.pdf
+
+Overcoming loss of information in hitting time (spectral clustering uses hitting time to cluster nodes):
+Problem statement: Hitting and Commute Times in Large Random Neighborhood Graphs - http://jmlr.csail.mit.edu/papers/volume15/vonluxburg14a/vonluxburg14a.pdf
+Laplacian Transformed Hitting Time - http://papers.nips.cc/paper/6009-from-random-walks-to-distances-on-unweighted-graphs.pdf
+New Resistance Distances with Global Information on Large Graphs - http://proceedings.mlr.press/v51/nguyen16a.pdf
+Phase transition in the family of p-resistances - http://is.tuebingen.mpg.de/fileadmin/user_upload/files/publications/2011/NIPS-2011-Alamgir.pdf
+GLOBAL INFORMATION LOSS AND CRITICALITY IN RESISTANCE MATRICES - (Thesis) https://mathematics.ceu.edu/sites/mathematics.ceu.hu/files/attachment/basicpage/29/thesis-odor.pdf
+
+Interesting:
+A Local Clustering Algorithm for Massive Graphs and its Application to Nearly-Linear Time Graph Partitioning - https://arxiv.org/pdf/0809.3232.pdf
+(Book) Large networks and graph limits - http://web.cs.elte.hu/~lovasz/bookxx/hombook-almost.final.pdf
+
+CF:
+An Experimental Investigation of Graph Kernels on a Collaborative Recommendation Task - http://www.isys.ucl.ac.be/staff/marco/Publications/2006_AnExperimentalInvestigation.pdf
+Performance of recommender algorithms on top-n recommendation tasks - https://sftp.hs-furtwangen.de/~heindl/ebte-2012ss/Performance_top_N_tasks.pdf
+!EigenRec: Generalizing PureSVD for Effective and Efficient Top-N Recommendations - https://arxiv.org/pdf/1511.06033.pdf
